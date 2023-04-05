@@ -1,5 +1,5 @@
 
-# Implementataion of High Performance Computing 
+## Implementataion of High Performance Computing 
 
 This project focuses on the implementation of a High-Performance Technical Computing solution on an HPC cluster, utilizing MPI to parallelize the travelling salesman problem.
 
